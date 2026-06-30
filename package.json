@@ -1,0 +1,20 @@
+{
+  "name": "lob-backend",
+  "version": "1.0.0",
+  "description": "Limit Order Book matching engine with real-time WebSocket backend - B.Tech CSE Final Year Project",
+  "main": "server.js",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["orderbook", "matching-engine", "websocket", "trading", "market-making"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "ws": "^8.21.0"
+  }
+}
