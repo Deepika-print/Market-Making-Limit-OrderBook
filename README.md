@@ -1,5 +1,8 @@
 # Limit Order Book — Node.js + WebSocket Backend
 
+### 📊 Trading Dashboard UI
+![Limit Order Book Live Terminal](./screenshot.png)
+
 A genuine **client–server** trading system. The matching engine runs entirely on
 a Node.js server; any number of browser clients connect over WebSocket and see
 the *same* live order book, *same* trades, *same* prices — exactly like a real
