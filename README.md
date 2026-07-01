@@ -1,5 +1,10 @@
 # Limit Order Book — Node.js + WebSocket Backend
 
+## 🌐 Live Demo & Preview
+
+### 🔗 [Click Here to View the Live Project](https://market-making-limit-orderbook.onrender.com/)
+*(Note: If the site takes a few moments to load initially, it is simply waking up from Render's free tier sleep mode).*
+
 ### 📊 Trading Dashboard UI
 ![Limit Order Book Live Terminal](./screenshot.png)
 
